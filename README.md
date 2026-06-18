@@ -1,5 +1,6 @@
 # DNA Sequence Analyzer
 My First bioinformatics project written in Python.
+
 Features:
 - Counts nucleotides
 - Accepts user DNA sequences
